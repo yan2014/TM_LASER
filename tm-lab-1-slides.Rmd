@@ -220,11 +220,22 @@ Figure source: SPE3DLab, n.d.
 ]
 
 
-Figure source: SPE3DLab, n.d.
+Figure source: Ma, 2019
 
 
 ]
 
+---
+# LDA
+
+.panelset[
+
+.center[
+<img src="img/LDA2.png" height="400px"/>
+]
+
+
+]
 ---
 class: clear, center
 
