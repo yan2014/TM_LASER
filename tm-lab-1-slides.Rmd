@@ -75,7 +75,7 @@ xaringanExtra::use_tile_view()
 
 ## Part 2: R Code-Along
 - Document Term Matrix
-- LDA
+- LDA (Latent Dirichlet allocation)
 - Finding K
 ]
 
@@ -211,7 +211,21 @@ Figure source: SPE3DLab, n.d.
 ]
 
 ---
+# LDA
 
+.panelset[
+
+.center[
+<img src="img/LDA.png" height="400px"/>
+]
+
+
+Figure source: SPE3DLab, n.d.
+
+
+]
+
+---
 class: clear, center
 
 ## .font130[.center[**Thank you!**]]
